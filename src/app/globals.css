@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media screen and (min-width: 1023px) {
+    
+    #img{
+    margin: 0% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    }
+}
