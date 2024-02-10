@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { useQuery, gql } from '@apollo/client';
+import { useQuery } from '@apollo/client';
 import client from '../Api/GQL/Appolo-client';
 import { Headline } from "@/Api/GQL/Graphql";
 const Homepage = () => {
