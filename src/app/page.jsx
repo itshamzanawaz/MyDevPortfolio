@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { motion } from "framer-motion";
 import { useQuery, gql } from '@apollo/client';
 import client from '../Api/GQL/Appolo-client';
